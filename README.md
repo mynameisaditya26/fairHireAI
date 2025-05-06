@@ -1,4 +1,4 @@
-# fairHireAI
+fairHireAI
 Based on your uploaded files (`app.py`, `app.ipynb`, `hiring_data.csv`, and `tempCodeRunnerFile.py`), here’s a professional `README.md` file suitable for a GitHub repository:
 
 ---
